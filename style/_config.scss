@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Josefin+Sans:wght@500&display=swap');
+
+*{
+    margin: 0;padding: 0;box-sizing: border-box; text-decoration: none;list-style-type: none;
+}
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+// Colors
+    $primary-color: hsl(0, 0%, 100%);
+    $secondary-color: hsl(0, 0%, 0%);
+    $heading-color:hsl(0, 0%, 41%);
+    $paragraph-color:  hsl(0, 0%, 55%);
+
+ 
